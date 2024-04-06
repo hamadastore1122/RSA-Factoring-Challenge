@@ -1,4 +1,4 @@
-#include "factor.h"
+#nclude "factor.h"
 
 /**
  * factorize - The function factorize a number
